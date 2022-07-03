@@ -1,0 +1,37 @@
+* {
+    font-family: LatoWeb, "Lato Extended", Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.lists-section,
+.links-section{
+    background-color: rgb(221, 255, 197);
+}
+
+.links-section .l1{
+    background-color: red;
+}
+
+.paragraphes p {
+    color: purple;
+    font-size: 22px;
+    font-weight: 900;
+    text-align: center;
+}
+
+svg, img {
+    height: 100px;
+    width: auto;
+}
+
+.lists-section{
+    box-sizing: border-box;
+    border: 1px solid green;
+    width: 500px;
+    padding: 10px;
+}
+
+a{
+    display: block;
+}
+
+
